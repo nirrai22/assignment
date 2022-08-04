@@ -18,6 +18,7 @@ function Counter({ initialCount = 0, step = 1 }) {
 function App() {
   return (
     <>
+      <Counter />
       <Task2 />
       <Task3 />
       <Task4 />
